@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.18+commit.87f61d96"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "say",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Practicals/HelloWorld.sol": "BlockchainPracticals"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Practicals/HelloWorld.sol": {
+			"keccak256": "0x1d4eb290d8245ca542cf24ff1de9a4fcf1cea128b82d18ffa92796e50caaffbb",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://9c3dc2e6b71575a9b5334dd38174f9e871d898da4ae9ff3a9843728e2a9b9ce4",
+				"dweb:/ipfs/QmV3tRsycR1QWGBVZ5wAth5v9W4cdoAF1VRXptiyN5aK8B"
+			]
+		}
+	},
+	"version": 1
+}
