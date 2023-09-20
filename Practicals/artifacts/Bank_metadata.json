@@ -84,11 +84,11 @@
 	},
 	"sources": {
 		"Practicals/BankingApplication.sol": {
-			"keccak256": "0x4326fc882bbe6c5ccd66bde9a0420d9a7c97212920213f6eda5857f34484b546",
+			"keccak256": "0x4777304c4773c0dda794e021dcccbd43af7d8d685bf4ed9bfd60fd1c070345b6",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://65858a33d979d8256d6fb182432e2523e021bd846da39300d27eee00920cd48f",
-				"dweb:/ipfs/QmVGZzsCntnN544znZeyXxzw1dAyNMRz6SavjNn1fv3raa"
+				"bzz-raw://919d30b5f5f107d5336794832fac3c6b6891599f9715f19f2f2f3e778f865bb7",
+				"dweb:/ipfs/QmYNzNN2MtKcVLMm6X1SLau5d2bemghJsEQdfhVMpDXuHv"
 			]
 		}
 	},

@@ -3,8 +3,6 @@ pragma solidity ^0.8.3;
 
 contract Bank{
     address Owner;
-    
- 
  
     // function for adding the Ethereum in Account
     function addBalance(uint amount) public returns(uint)
@@ -24,7 +22,7 @@ contract Bank{
     function Transfer(address recipient, uint amount) public
     {
  
-        require(Balance[Owner] < amount, "Insufficient Balance");
+        require(Balance[Owner] >= amount, "Insufficient Balance");
  
         _transfer(Owner, recipient, amount);
     }
