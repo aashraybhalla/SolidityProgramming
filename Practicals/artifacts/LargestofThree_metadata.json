@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.18+commit.87f61d96"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "LOT",
+				"outputs": [
+					{
+						"internalType": "int256",
+						"name": "",
+						"type": "int256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Practicals/LargestofThree.sol": "LargestofThree"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Practicals/LargestofThree.sol": {
+			"keccak256": "0xd419f3248ef34e506e896b6dd27e9b09db0f3c25d3624e5b574e3adefa804999",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://30c0f2c7de3d8cb5ce155ee17f01710e3d5444e419e944028f45a2facb8224fd",
+				"dweb:/ipfs/QmR4JgcLcRRppw5WSbJZJ7wWqmSZRHDkhF1yMARWAkpuja"
+			]
+		}
+	},
+	"version": 1
+}
